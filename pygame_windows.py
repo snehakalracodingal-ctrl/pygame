@@ -1,7 +1,4 @@
-# Import Necessary Libraries
 import pygame  
-  
-# Initialize required modules
 pygame.init()  
 
 # Setup window geometry
