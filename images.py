@@ -15,7 +15,7 @@ background_image = pygame.transform.scale(
 )
 
 penguin_image = pygame.transform.scale(
-    pygame.image.load(r"c:\Users\USER\Downloads\images (2).jpg").convert_alpha(),
+    pygame.image.load(r"c:\Users\USER\Downloads\images (2).jpg").convert(),
     (120,200)
 )
 
